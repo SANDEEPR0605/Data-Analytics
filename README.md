@@ -13,7 +13,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 Steps of Implementation
   1.	Download the Data Set
-  2.	Open Customer_Shopping_Behaviour_Analysis.ipynb notebook
+  2.	Open customer_analysis.ipynb notebook
   3.	This file contains:
   4.	Data Import
   5.	Data exploration
@@ -22,9 +22,9 @@ Steps of Implementation
   8.	Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
   9.	Create a database in SQL
   10.	Run Python code to load data into SQL database
-  11.	Open customer_behaviour_sql_queries.sql
+  11.	Open customer_analysis.sql
   12.	Answer Business Questions using SQL Queries
   13.	Connect the SQL Database to Power BI
-  14.	Open customer_behaviour_dashboard.pbix
+  14.	Open customer_analysis Dashboard.pbix
   15.	Create interactive dashboard in Power BI
   16.	Create Project Report and Presentation
