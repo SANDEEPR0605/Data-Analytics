@@ -1,7 +1,7 @@
 # Data-Analytics
-Data analytics project demonstrating customer shopping behavior analysis using Python, SQL, and Power BI.
+Data analytics project demonstrating customer shopping behaviour analysis using Python, SQL, and Power BI.
 
-Data Analyst Project
+Data Analytics Project
 
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
@@ -13,7 +13,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 Steps of Implementation
   1.	Download the Data Set
-  2.	Open Customer_Shopping_Behavior_Analysis.ipynb notebook
+  2.	Open Customer_Shopping_Behaviour_Analysis.ipynb notebook
   3.	This file contains:
   4.	Data Import
   5.	Data exploration
@@ -22,9 +22,9 @@ Steps of Implementation
   8.	Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
   9.	Create a database in SQL
   10.	Run Python code to load data into SQL database
-  11.	Open customer_behavior_sql_queries.sql
+  11.	Open customer_behaviour_sql_queries.sql
   12.	Answer Business Questions using SQL Queries
   13.	Connect the SQL Database to Power BI
-  14.	Open customer_behavior_dashboard.pbix
+  14.	Open customer_behaviour_dashboard.pbix
   15.	Create interactive dashboard in Power BI
   16.	Create Project Report and Presentation
